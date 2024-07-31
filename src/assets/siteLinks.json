@@ -1,38 +1,37 @@
 [
   {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/Wolffy-yy/"
+    "icon": "Blog",
+    "name": "博客主站",
+    "link": "https://blog.yangcuneba.fun/"
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/"
+    "icon": "Cloud",
+    "name": "博客副站",
+    "link": "https://fz.yangcuneba.online/"
   },
   {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
-    "tip": "南山必胜客",
-    "url": "https://res.abeim.cn/api/qq/?qq=1215470074"
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.yangcuneba.online/"
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "联系我吧",
-    "url": "mailto:1215470074@qq.com"
+    "icon": "Compass",
+    "name": "视频",
+    "link": "https://video.yangcuneba.online/"
   },
   {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "没有",
-    "url": "https://res.abeim.cn/api/qq/?qq=1215470074"
+    "icon": "Book",
+    "name": "图库",
+    "link": "https://pic.yangcuneba.online/"
   },
   {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "没有",
-    "url": "https://res.abeim.cn/api/qq/?qq=1215470074"
+    "icon": "Fire",
+    "name": "ai工具站",
+    "link": "https://ai.yangcuneba.online/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测(暂无)",
+    "link": "https://fz.yangcuneba.online/"
   }
 ]
