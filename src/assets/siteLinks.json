@@ -1,37 +1,38 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.yangcuneba.fun/"
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/Wolffy-yy/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘(暂无)",
-    "link": "https://blog.yangcuneba.fun/"
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐(暂无)",
-    "link": "https://blog.yangcuneba.fun/"
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "南山必胜客",
+    "url": "https://res.abeim.cn/api/qq/?qq=1215470074"
   },
   {
-    "icon": "Compass",
-    "name": "起始页(暂无)",
-    "link": "https://blog.yangcuneba.fun/"
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "联系我吧",
+    "url": "mailto:1215470074@qq.com"
   },
   {
-    "icon": "Book",
-    "name": "网址集(暂无)",
-    "link": "https://blog.yangcuneba.fun/"
+    "name": "Twitter",
+    "icon": "/images/icon/twitter.png",
+    "tip": "没有",
+    "url": "https://res.abeim.cn/api/qq/?qq=1215470074"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜(暂无)",
-    "link": "https://blog.yangcuneba.fun/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测(暂无)",
-    "link": "https://blog.yangcuneba.fun/"
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "没有",
+    "url": "https://res.abeim.cn/api/qq/?qq=1215470074"
   }
 ]
