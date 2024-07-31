@@ -1,0 +1,37 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.yangcuneba.fun/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘(暂无)",
+    "link": "https://blog.yangcuneba.fun/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐(暂无)",
+    "link": "https://blog.yangcuneba.fun/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页(暂无)",
+    "link": "https://blog.yangcuneba.fun/"
+  },
+  {
+    "icon": "Book",
+    "name": "网址集(暂无)",
+    "link": "https://blog.yangcuneba.fun/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜(暂无)",
+    "link": "https://blog.yangcuneba.fun/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测(暂无)",
+    "link": "https://blog.yangcuneba.fun/"
+  }
+]
