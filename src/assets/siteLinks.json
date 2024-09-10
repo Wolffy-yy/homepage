@@ -7,31 +7,31 @@
   {
     "icon": "Cloud",
     "name": "博客副站",
-    "link": "https://fz.yangcuneba.online/"
+    "link": "https://fz.yangcuneba.site/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.yangcuneba.online/"
+    "link": "https://music.yangcuneba.site/"
   },
   {
     "icon": "Compass",
     "name": "视频",
-    "link": "https://video.yangcuneba.online/"
+    "link": "https://video.yangcuneba.site/"
   },
   {
     "icon": "Book",
     "name": "图库",
-    "link": "https://pic.yangcuneba.online/"
+    "link": "https://pic.yangcuneba.site/"
   },
   {
     "icon": "Fire",
     "name": "ai工具站",
-    "link": "https://ai.yangcuneba.online/"
+    "link": "https://ai.yangcuneba.site/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测(暂无)",
-    "link": "https://fz.yangcuneba.online/"
+    "link": "https://fz.yangcuneba.site/"
   }
 ]
